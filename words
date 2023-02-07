@@ -1,1 +1,2 @@
 
+1. Socket buffers are the short queues of packets the kernel holds on behalf of your app, as it's shuffling data between the NIC and your app's memory space
